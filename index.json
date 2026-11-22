@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn",
+  "repo": "scikit-learn",
+  "versions": [
+    {
+      "commit": "c83447b72c4f48ceb8249ea394ebf042618b8a2a",
+      "tag": "sprint01",
+      "parsed_at": "2026-11-22T04:38:10.336918+00:00"
+    }
+  ]
+}
