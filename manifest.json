@@ -205,6 +205,57 @@
       ],
       "ast": [
         "aggregate/ast/c83447b72c4f48ceb8249ea394ebf042618b8a2a/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/c83447b72c4f48ceb8249ea394ebf042618b8a2a.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "numpy",
+          "ecosystem": "PYPI",
+          "version": "2.5.5",
+          "githubOrg": "numpy",
+          "githubRepo": "numpy",
+          "githubCommit": "afcbc6d21a88a7b59c5bfe115198e24ed51b3dae",
+          "githubTag": "v2.5.5",
+          "githubUrl": "https://github.com/numpy/numpy",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/numpy/_core/numeric.py"
+        },
+        {
+          "packageName": "scipy",
+          "ecosystem": "PYPI",
+          "version": "1.18.1",
+          "githubOrg": "scipy",
+          "githubRepo": "scipy",
+          "githubCommit": "e4e854eaa8f18d807cd3496028e257e36caa93cc",
+          "githubTag": "v1.18.1",
+          "githubUrl": "https://github.com/scipy/scipy",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/scipy/cluster/vq/_vq_impl.py"
+        },
+        {
+          "packageName": "joblib",
+          "ecosystem": "PYPI",
+          "version": "1.6.0",
+          "githubOrg": "joblib",
+          "githubRepo": "joblib",
+          "githubCommit": "cd9a6b05fc4f2b1c8202eb62c4e863484f8cc099",
+          "githubTag": "1.6.0",
+          "githubUrl": "https://github.com/joblib/joblib",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/joblib/parallel.py"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
